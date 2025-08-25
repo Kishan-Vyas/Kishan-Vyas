@@ -78,6 +78,51 @@ const KishanVyas = {
 - 🔄 Implementing **real-time monitoring systems** with automated alerts
 - 📊 Designing and optimizing **database architectures**
 
+</br>
+
+## 📱 Mobile Apps Portfolio
+
+
+### 🎬 MovieHub - Entertainment App  2.5k+ Install
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.x100xTechs.moviehub1" target="_blank">
+    <img src="https://img.shields.io/badge/Download-MovieHub-0e6efd?style=for-the-badge&logo=googleplay&logoColor=white" alt="MovieHub" />
+  </a>
+</div>
+
+- **🛠️ Technology Stack**: `React Native` `Typescript` `TMDB Api`
+- **📱 Category**: Entertainment & Media
+- **✨ Features**: Movie/Tv Series browsing, detailed information, ratings, reviews, bookmark, watching and favourite
+- **🎯 Purpose**: Comprehensive movie/tv series discovery and information platform
+
+---
+
+### 📚 ShalaShikshak - Educational Platform
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.x100xTechs.shalashikshak" target="_blank">
+    <img src="https://img.shields.io/badge/Download-ShalaShikshak-0e6efd?style=for-the-badge&logo=googleplay&logoColor=white" alt="ShalaShikshak" />
+  </a>
+</div>
+
+- **🛠️ Technology Stack**: `React Native` `Node` `Mysql`
+- **📱 Category**: Education & Learning
+- **✨ Features**: Educational content delivery, interactive learning modules
+- **🎯 Purpose**: Bridging the gap between teacher and students digitally
+
+---
+
+### 📊 Dasaram - Result Management System
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.x100xTechs.dasaram" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Dasaram-0e6efd?style=for-the-badge&logo=googleplay&logoColor=white" alt="Dasaram" />
+  </a>
+</div>
+
+- **🛠️ Technology Stack**: `Flutter` `Dart` `Node` `Firebase`
+- **📱 Category**: Education & Productivity
+- **✨ Features**: Student result management, data analytics, secure access
+- **🎯 Purpose**: Streamlined academic result management for educational institutions
+
 ## 🛠️ Technical Expertise
 
 <details open>
